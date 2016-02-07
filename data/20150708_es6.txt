@@ -1,0 +1,12 @@
+# Adjacency list of an undirected graph
+# Graph from ftp://ftp.elet.polimi.it/outgoing/Carlo.Piccardi/TemiCsr/20150708.pdf
+# Format:
+# <source> [<dest>]*
+# Reference: http://networkx.github.io/documentation/latest/reference/readwrite.adjlist.html
+1   2 3 6
+2
+3   4 5 6
+4   5 7
+5
+6   7
+7
